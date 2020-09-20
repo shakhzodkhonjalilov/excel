@@ -1,0 +1,23 @@
+{
+  "name": "excel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shax204/excel.git"
+  },
+  "keywords": [
+    "js",
+    "excel"
+  ],
+  "author": "Jalilov Shahzod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shax204/excel/issues"
+  },
+  "homepage": "https://github.com/shax204/excel#readme"
+}
